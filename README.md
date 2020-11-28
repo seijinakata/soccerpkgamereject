@@ -1,1 +1,3 @@
-# soccerpkgamereject
+appstoreにrejectされましたが、
+scenekitで作ってあります。
+フレームワークも頑張ったので参考にしてみてください。
