@@ -1,3 +1,2 @@
-appstoreにrejectされましたが、
-scenekitで作ってあります。
-フレームワークも頑張ったので参考にしてみてください。
+appstoreにrejectされましたが、 scenekitで作ってあります。 
+フレームワークも頑張ったので参考にしてみてください。viewcontrollerを画面推移にしています。
